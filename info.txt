@@ -1,0 +1,5 @@
+Student_id : 2313111128	
+Student Name : Nichapa Singwiset
+Major : IT
+Level : 1
+Faculty : Information Technology
