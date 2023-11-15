@@ -1,0 +1,4 @@
+Id : 2313111128
+Name-Surname : Nichapa Singwiset
+Date : Nov-15-2023 
+Topic : Variables, Assigning Value and Input Data
