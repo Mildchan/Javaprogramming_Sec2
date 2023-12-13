@@ -1,4 +1,4 @@
 Id : 2313111128
 Name-Surname : Nichapa Singwiset
-Date : Nov-29-2023 
-Topic : Control Statements (Decision, Loop, and Jump Statement)
+Date : Dec-13-2023 
+Topic :Work with String and the String Method
